@@ -35,9 +35,9 @@ So, that's ...
 
 Five thousand times faster over 25 years.
 
-couple of years, instead, then for 25 years, I'd expect this:
-doubling every couple of years. If I assume, instead, that computing power doubles every 
 https://en.wikipedia.org/wiki/Moore%27s_law talks about about transistor density 
+doubling every couple of years. If I assume, instead, that computing power doubles every 
+couple of years, instead, then for 25 years, I'd expect this:
 
     :; octave
     octave:1> 2 ^ (25 / 2)
