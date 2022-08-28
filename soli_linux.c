@@ -1,3 +1,9 @@
+/*
+         :; gcc -Wall -O3 soli_linux.c -o soli_linux ; time ./soli_linux > out
+         real    0m0.685s
+         user    0m0.681s
+         sys     0m0.004s
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #define BOARDSZ 15
