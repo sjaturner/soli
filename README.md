@@ -26,7 +26,7 @@ The program runs like this:
     user    0m0.681s
     sys     0m0.004s
 
-So, that's ...
+Let's say it took about an hour before ...
 
     :; octave
     octave:1> 3600 / 0.7
